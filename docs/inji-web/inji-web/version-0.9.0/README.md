@@ -4,7 +4,7 @@
 
 **Support**: Developer Release
 
-**Release Date**: Coming Soon
+**Release Date**: 17th June, 2024
 
 ## **Overview** <a href="#overview" id="overview"></a>
 
@@ -75,6 +75,6 @@ Below are the list of fixes as part of 0.9.0 release:
 
 * [Feature documentation](https://docs.mosip.io/inji/inji-web/functional-overview/features)
 * [User guide](https://docs.mosip.io/inji/inji-web/functional-overview/end-user-guide)
-* QA Report
+* [QA Report](https://docs.mosip.io/inji/inji-web/inji-web/version-0.9.0/test-report)
 * [API Documentation](https://docs.mosip.io/inji/inji-web/technical-overview/backend-services/mimoto-bff)
 
